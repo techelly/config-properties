@@ -5,4 +5,4 @@ spring:
                 git:
                     uri: https://github.com/techelly/config-properties
                         username: techelly
-                        password: Pr@bh@t1510
+                        password: password
