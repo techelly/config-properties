@@ -3,6 +3,6 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/techelly/externalconfigexample
+                    uri: https://github.com/techelly/config-properties
                         username: techelly
-                        password: password
+                        password: Pr@bh@t1510
